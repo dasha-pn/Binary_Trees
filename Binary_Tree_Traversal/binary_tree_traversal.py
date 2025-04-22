@@ -1,4 +1,4 @@
-"""Different traversals of the binary tree"""
+"""Different traversals of the binary tree (exercise 1)"""
 
 class Node:
     """
